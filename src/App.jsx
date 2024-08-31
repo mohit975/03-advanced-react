@@ -1,14 +1,9 @@
-import Example from './tutorial/04-project-structure/starter/Example'
-import Navbar from './tutorial/04-project-structure/starter/Navbar'
-import { About, Home } from './tutorial/04-project-structure/starter/Pages'
+import UserChallenge from './tutorial/06-forms/starter/04-other-inputs'
 
 function App() {
   return (
     <div className="container">
-      <Home />
-      <About />
-      <Example />
-      {/* <Final /> */}
+      <UserChallenge />
     </div>
   )
 }
