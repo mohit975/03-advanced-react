@@ -1,3 +1,4 @@
+import { Refactor } from './Refactor'
 import FirstComponent from './FirstComponent'
 import SecondComponent from './SecondComponent'
 
